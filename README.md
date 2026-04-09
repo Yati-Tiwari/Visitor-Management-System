@@ -116,3 +116,4 @@ security personnel.
 2. The captured image is stored in a secure database for future reference.
 3. A visitor badge with a photo is generated, which can be checked at security checkpoints.
 4. The visitor must check out upon exit to complete the visit record.
+//
