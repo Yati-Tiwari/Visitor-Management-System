@@ -1,5 +1,5 @@
 # Visitor-Management-System
-Plus Points in Implementation (Overall Evaluation Criteria)
+
 1. Authentication:
 - Implement robust user authentication protocols to ensure secure access.
 2. Cost Estimation - Time and Space:
@@ -28,6 +28,7 @@ extensibility.
 - Develop a robust error and exception handling framework.
 - Provide meaningful error messages for effective debugging.
 - Regularly review and update error-handling strategies based on system usage patterns.
+
 Instructions:
 1. Read and Understand the Problem Statement:
 - Carefully read the problem statement provided. Understand the requirements, inputs, expected outputs, and
