@@ -6,14 +6,14 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ## 🚀 Features
 
-### 🔐 Authentication
+### Authentication
 - Secure login and signup system
 - Role-based access (Admin, Security, Employee)
 - Password protection and session management
 
 ---
 
-### 📝 Visitor Registration
+### Visitor Registration
 - Capture visitor details:
   - Full Name
   - Contact Information
@@ -26,7 +26,7 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ---
 
-### ✅ Approval Workflow
+### Approval Workflow
 - Real-time notification to host employee
 - Approval or rejection via system
 - Entry allowed only after approval
@@ -34,7 +34,7 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ---
 
-### ⏳ Pre-Approval System
+### Pre-Approval System
 - Employees can pre-approve visitors
 - Time-slot based entry (e.g., 10 AM – 12 PM)
 - QR code/e-pass generated in advance
@@ -42,7 +42,7 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ---
 
-### 📸 Mandatory Photo Capture
+### Mandatory Photo Capture
 - Ensures identity verification
 - Stored securely in database
 - Used for visitor badge
@@ -50,16 +50,16 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ---
 
-## ⚙️ System Design Considerations
+## System Design Considerations
 
-### ⏱️ Time and Space Complexity
+### Time and Space Complexity
 - Efficient data structures used
 - Optimized database queries
 - Reduced storage redundancy
 
 ---
 
-### ⚠️ Handling System Failures
+### Handling System Failures
 - Backup and recovery mechanisms
 - Fault-tolerant design
 - Logging and retry strategies
@@ -67,7 +67,7 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ---
 
-### 🧱 Object-Oriented Programming (OOP)
+### Object-Oriented Programming (OOP)
 - Uses OOP principles:
   - Encapsulation
   - Inheritance
@@ -77,7 +77,7 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ---
 
-### ⚖️ Trade-offs in System Design
+### Trade-offs in System Design
 - Performance vs Memory usage
 - Security vs Speed
 - Scalability vs Complexity
@@ -85,7 +85,7 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ---
 
-### 📊 System Monitoring
+### System Monitoring
 - Real-time logs and tracking
 - Dashboard for:
   - Active visitors
@@ -94,7 +94,7 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ---
 
-### ⚡ Caching
+### Caching
 - Frequently accessed data cached
 - Reduces database load
 - Improves response time
@@ -102,7 +102,7 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ---
 
-### ❗ Error and Exception Handling
+### Error and Exception Handling
 - Centralized error handling
 - Meaningful error messages
 - Logging for debugging
@@ -110,22 +110,12 @@ A **Visitor Management System (VMS)** is designed to enhance workplace security,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** (Java / Python / Node.js — update as per your project)  
-- **Database:** MySQL / MongoDB  
+- **Backend:** Node.js 
+- **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code  
-
----
-
-## 🧪 Testing
-
-- Unit testing for modules
-- Tested with edge cases:
-  - Invalid input
-  - Duplicate entries
-  - Unauthorized access
 
 ---
 
